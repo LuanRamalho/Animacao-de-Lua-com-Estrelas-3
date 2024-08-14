@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('https://i.pinimg.com/originals/6c/8d/64/6c8d646d6b10b77557db83845d21f38c.gif');
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
